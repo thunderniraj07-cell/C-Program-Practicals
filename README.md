@@ -1,6 +1,7 @@
 # C Program Practicals
+
 Assignment 2 programs written in C.
 
 ## Programs
-- program1.c : Finds the sum of two numbers
-- program2.c : Checks if a number is even or odd# C-Program-Practicals
+- **matrix_multiplication.c** : Multiplies two matrices using 2D arrays, after checking that their sizes are compatible.
+- **student_result.c** : Menu-driven Student Record and Result Management System using functions, structures, pointers and files. It adds, displays and searches records, calculates total, percentage and grade, shows the topper and saves records to a file.
